@@ -1,4 +1,3 @@
 # jarnjs
 JÄRNJS
-![alt text]
-(https://media.giphy.com/media/wpVM8uZMwThC0/giphy.gif)
+<img src="https://github.com/jarnjs/jarnjs/blob/master/src/img/logo.png" alt="Järn logo" title="Järn" align="right" height="60" />
